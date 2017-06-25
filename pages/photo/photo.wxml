@@ -1,0 +1,4 @@
+<!--photo.wxml-->
+<text bindtap="bindGetPhoto">photo.wxml</text>
+<image src="{{src}}"></image>
+<text>"{{src}}</text>
